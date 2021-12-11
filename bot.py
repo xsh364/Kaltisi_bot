@@ -57,8 +57,8 @@ def covid_image_crawling(image_num=5):
  
  
 
-token = "5071867858:AAGXM83qMK3JLR6yXzoAVD3GhprZuxRoIKU"
-id = "5046503865"
+token = "토큰 입력"
+id = "채팅 아이디 입력"
  
 bot = telegram.Bot(token)
 info_message = '''- 오늘의 확진자 수를 확인하려면 '코로나'를 입력하면 된다.
